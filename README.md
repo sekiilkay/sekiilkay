@@ -13,3 +13,6 @@
 ## 🛠️ Languages I Use
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sekiilkay&layout=compact&theme=radical)
+![C#](https://img.shields.io/badge/C%23-70%25-blue)
+![HTML](https://img.shields.io/badge/HTML-15%25-orange)
+![Python](https://img.shields.io/badge/Python-15%25-yellow)
