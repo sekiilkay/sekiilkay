@@ -12,7 +12,4 @@
 
 ## 🛠️ Languages I Use
 
-![C#](https://img.shields.io/badge/C%23-50%25-blue)
-![Python](https://img.shields.io/badge/Python-30%25-yellow)
-![SQL](https://img.shields.io/badge/SQL-20%25-red)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekiilkay&layout=compact&theme=radical&repo=senti)
