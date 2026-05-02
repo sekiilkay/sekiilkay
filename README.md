@@ -28,7 +28,6 @@
 </table>
 
 <br clear="both" />
-<br />
 
 ## 🛠️ Most Used Languages
 <p align="left">
